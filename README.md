@@ -22,19 +22,19 @@
 ```conda env create -f condaEnvironments/environmentUbuntu.yml```
 
 4. *Activate The Environment*
-* If you are running problem one, run this command: 
+* If you are running Visualize COVID-19 data project, run this command: 
 
 ```conda activate problem1```
 
-* If you are running problem two, run this command: 
+* If you are running progressive jpeg decoding project, run this command: 
 
 ```conda activate problem2```
 
-* If you are running problem three, run this command: 
+* If you are running Virtual piano and guitar project, run this command: 
 
 ```conda activate problem3```
 
-* If you are running problem four, run this command: 
+* If you are running problem Blind source separation project, run this command: 
 
 ```conda activate problem4```
 
